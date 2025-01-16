@@ -1,0 +1,30 @@
+{
+    "manifest_version": 3,
+    "name": "Voxscript",
+    "version": "1.0",
+    "description": "Converts speech to text and supports multiple languages.",
+    "action": {
+      "default_popup": "popup.html",
+      "default_icon": {
+        "16": "icon.png",
+        "48": "icon.png",
+        "64": "icon.png",
+        "128": "icon.png"
+      }
+    },
+    "icons": {
+        "16": "icon.png",
+        "48": "icon.png",
+        "64": "icon.png",
+        "128": "icon.png"
+    },
+    "permissions": [
+      "activeTab",
+      "storage",
+      "microphone"
+    ],
+    "host_permissions": [
+    "*://*.voxscript.site/"
+    ]
+  }
+  
