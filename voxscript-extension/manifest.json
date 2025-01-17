@@ -22,9 +22,6 @@
       "activeTab",
       "storage",
       "microphone"
-    ],
-    "host_permissions": [
-    "*://*.voxscript.site/"
     ]
   }
   
