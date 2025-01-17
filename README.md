@@ -1,12 +1,12 @@
 # Voxscript
 Voxscript is simple Speech To Text(STT) service that work on website and chrome extension.
 
-# Website
-https://voxscript.site/
+__Website__
+[Voxscript](https://voxscript.site/)
 
-# Chrome Extension
+__Chrome Extension__
 It will be soon :)
 
-# Question
+__Question__
 If you have question of this repo, than send email to here.
 - roootpi@gmail.com
