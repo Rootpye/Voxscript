@@ -2,7 +2,7 @@
 Voxscript is simple Speech To Text(STT) service that work on website and chrome extension.
 
 # Website
-[Voxscript](https://voxscript.site/)
+https://voxscript.site/
 
 # Chrome Extension
 It will be soon :)
