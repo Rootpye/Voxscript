@@ -3,6 +3,7 @@ const recordBtn = document.querySelector(".record"),
   downloadBtn = document.querySelector(".download"),
   inputLanguage = document.querySelector("#language"),
   clearBtn = document.querySelector(".clear");
+  infoButton = document.querySelector("#infoButton");
 
 let SpeechRecognition =
     window.SpeechRecognition || window.webkitSpeechRecognition,
@@ -110,3 +111,11 @@ clearBtn.addEventListener("click", () => {
   result.innerHTML = "";
   downloadBtn.disabled = true;
 });
+
+if (infoButton) {
+  infoButton.addEventListener("click", () => {
+    alert(
+      "Developer: Rootpye\nEmail: roootpi@gmail.com\nGithub: https://github.com/Rootpye"
+    );
+  });
+}
