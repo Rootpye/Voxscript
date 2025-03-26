@@ -4,7 +4,7 @@
     "version": "1.0",
     "description": "Converts speech to text and supports multiple languages.",
     "action": {
-      "default_popup": "popup.html",
+      "default_title": "Speech to Text",
       "default_icon": {
         "16": "icon.png",
         "48": "icon.png",
@@ -21,7 +21,11 @@
     "permissions": [
       "activeTab",
       "storage",
-      "microphone"
-    ]
+      "microphone",
+      "tabs"
+    ],
+    "background": {
+      "service_worker": "background.js"
+    }
   }
   
