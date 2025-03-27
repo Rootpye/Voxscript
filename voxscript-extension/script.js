@@ -23,11 +23,11 @@ populateLanguages();
 
 function speechToText() {
   try {
-    // getUserMedia를 호출하여 마이크 접근 권한 요청
+    // Call getUserMedia to request microphone access
     navigator.mediaDevices
       .getUserMedia({ audio: true })
       .then((stream) => {
-        // 성공적으로 권한을 얻은 경우
+        // If permission is successfully obtained
         recognition = new SpeechRecognition();
         recognition.lang = inputLanguage.value;
         recognition.interimResults = true;
