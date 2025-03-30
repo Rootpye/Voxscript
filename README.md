@@ -1,5 +1,5 @@
 # Voxscript
-Voxscript is simple Speech To Text(STT) service that work on website and chrome extension.
+Voxscript is a website and extension that helps you convert your speech to text.
 
 # Website
 https://voxscript.site/
