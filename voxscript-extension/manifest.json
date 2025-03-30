@@ -2,7 +2,7 @@
     "manifest_version": 3,
     "name": "Voxscript",
     "version": "1.0",
-    "description": "Converts speech to text and supports multiple languages.",
+    "description": "Voxscript is an extension that helps you convert your speech to text.",
     "action": {
       "default_title": "Speech to Text",
       "default_icon": {
