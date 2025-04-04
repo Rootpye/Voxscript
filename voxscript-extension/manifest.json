@@ -20,9 +20,7 @@
     },
     "permissions": [
       "activeTab",
-      "storage",
-      "microphone",
-      "tabs"
+      "microphone"
     ],
     "background": {
       "service_worker": "background.js"
