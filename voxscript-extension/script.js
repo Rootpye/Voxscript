@@ -27,7 +27,7 @@ function speechToText() {
     navigator.mediaDevices
       .getUserMedia({ audio: true })
       .then((stream) => {
-        // If permission is successfully obtained
+        // If microphone access granted
         recognition = new SpeechRecognition();
         recognition.lang = inputLanguage.value;
         recognition.interimResults = true;
