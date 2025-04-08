@@ -5,7 +5,7 @@ Voxscript is a website and extension that helps you convert your speech to text.
 https://voxscript.site/
 
 # Chrome extension
-Update soon :)
+https://chromewebstore.google.com/detail/voxscript/ipiickiacjepghmjgidbmghgnjfgcnhf
 
 # Question
 If you have question about this repo, send an email to here.
