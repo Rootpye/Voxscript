@@ -8,6 +8,7 @@ This is open-sourced repository of voxscript web version.
 - Website: https://voxscript.site/
 
 # Chrome extension
+- Repository: https://github.com/Rootpye/Voxscript-extension
 - Chrome Web Store: https://chromewebstore.google.com/detail/voxscript/ipiickiacjepghmjgidbmghgnjfgcnhf
 
 - Repository: https://github.com/Rootpye/Voxscript-extension
